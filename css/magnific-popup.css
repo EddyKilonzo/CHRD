@@ -1,4 +1,5 @@
 /* Magnific Popup CSS */
+
 .mfp-bg {
     top: 0;
     left: 0;
@@ -336,7 +337,7 @@
       text-align: center;
       padding: 0; } }
   
-  @media all and (max-width: 900px) {
+  @media all and (max-width: 600px) {
     .mfp-arrow {
       -webkit-transform: scale(0.75);
       transform: scale(0.75); }
